@@ -14,4 +14,9 @@ class Shopware_Controllers_Frontend_RoutingDemonstration extends Enlight_Control
     {
         
     }
+
+    public function fooAction()
+    {
+        
+    }
 }
