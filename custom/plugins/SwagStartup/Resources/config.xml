@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <elements>
+        <element required="true" type="text" scope="locale">
+            <name>slogan</name>
+            <label lang="de">Hallo</label>
+            <label lang="en">Hello mate</label>
+            <value>XML is fun</value>
+            <description>This slogan will be shown on the storefront</description>
+        </element>
+    </elements>
+</config>
